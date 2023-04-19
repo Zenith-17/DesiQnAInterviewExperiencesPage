@@ -1,0 +1,27 @@
+body {
+    font-family: "Work Sans", sans-serif;
+    line-height: 1.5;
+    background-color: #2d3436;
+    background-color: #f8f9d2;
+background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+}
+.navbar{
+    background: linear-gradient(132deg, rgb(65, 80, 95) 0.00%, rgb(36, 37, 38) 100.00%);
+}
+.nav-link{
+    color: white;
+}
+.navbar-nav{
+    
+    display: flex;
+}
+
+.company_list{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+#img_size{
+    width: auto;
+    height: auto;
+}
