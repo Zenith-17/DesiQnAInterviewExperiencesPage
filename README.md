@@ -12,7 +12,7 @@ The following technologies were used to develop this webpage:
 
 ## Live Webpage
 
-You can access the live version of the webpage at the following link: [https://bit.ly/3n6wCwz](https://tinyurl.com/2yjmceom)
+You can access the live version of the webpage:<a href="https://tinyurl.com/2yjmceom"> Here</a>
 
 Feel free to explore the webpage and use the provided interview questions and tips to prepare for your next job interview. If you have any suggestions or feedback, please don't hesitate to let me know. I hope you find this resource helpful!
 
