@@ -12,6 +12,19 @@ The following technologies were used to develop this webpage:
 
 ## Live Webpage
 
-You can access the live version of the webpage at the following link: [bit.ly/3n6wCwz](https://bit.ly/3n6wCwz)
+You can access the live version of the webpage at the following link: https://bit.ly/3n6wCwz
 
-Feel free to explore the webpage and use the provided interview questions and tips to prepare for your next job interview. If you have any suggestions or feedback, please don't hesitate to let us know. We hope you find this resource helpful!
+Feel free to explore the webpage and use the provided interview questions and tips to prepare for your next job interview. If you have any suggestions or feedback, please don't hesitate to let me know. I hope you find this resource helpful!
+
+<h2>Contribution</h2>
+<p>If you want to contribute to Plethora, please follow these steps:</p>
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch for your feature: <code>git checkout -b feature/your-feature</code></li>
+  <li>Commit your changes: <code>git commit -m "Add your feature"</code></li>
+  <li>Push to your branch: <code>git push origin feature/your-feature</code></li>
+  <li>Submit a pull request.</li>
+</ol>
+
+<h2>Thank you for visiting!!!</h2>
+
