@@ -10,9 +10,13 @@ The following technologies were used to develop this webpage:
 - CSS
 - Bootstrap
 
+## Screen Shots
 ![Screenshot (588)](https://github.com/Zenith-17/DesiQnA_InterviewExperiences_Page/assets/99113156/ddcfbd51-cb4b-4909-b395-c261da0e0ec8)
+<br><br>
 ![Screenshot (589)](https://github.com/Zenith-17/DesiQnA_InterviewExperiences_Page/assets/99113156/07684c7f-66d2-47c6-a99d-50c3c1b197d2)
+<br><br>
 ![Screenshot (590)](https://github.com/Zenith-17/DesiQnA_InterviewExperiences_Page/assets/99113156/38e0b67d-6fff-438f-a6cc-05f3daf690ac)
+<br><br>
 ![Screenshot (591)](https://github.com/Zenith-17/DesiQnA_InterviewExperiences_Page/assets/99113156/06d84bf0-c7a2-42da-a1bb-3f787d2ac818)
 
 ## Live Webpage
