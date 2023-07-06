@@ -19,12 +19,6 @@ The following technologies were used to develop this webpage:
 <br><br>
 ![Screenshot (591)](https://github.com/Zenith-17/DesiQnA_InterviewExperiences_Page/assets/99113156/06d84bf0-c7a2-42da-a1bb-3f787d2ac818)
 
-## Live Webpage
-
-You can access the live version of the webpage:<a href="https://tinyurl.com/2yjmceom"> Here</a>
-
-Feel free to explore the webpage and use the provided interview questions and tips to prepare for your next job interview. If you have any suggestions or feedback, please don't hesitate to let me know. I hope you find this resource helpful!
-
 <h2>Contribution</h2>
 <p>If you want to contribute to Plethora, please follow these steps:</p>
 <ol>
